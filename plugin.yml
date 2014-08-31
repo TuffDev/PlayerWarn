@@ -1,0 +1,13 @@
+name: PlayerWarn
+main: PlayerWarn\main
+version: 1.0.0
+api: [1.0.0]
+website: none
+commands: 
+    warn:
+        description: Sends a warning message
+    warninglist: 
+        description: Shows the warnings given to a player
+    warningclear: 
+        description: Clears all warnings for a player
+
